@@ -1,4 +1,4 @@
 streamlit
-scipy
+pip install scipy
 pandas
 numpy
